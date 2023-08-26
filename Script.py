@@ -12,9 +12,9 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>"""
+<b>CREATER:</b>
+- Channel<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
+- Updates<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
