@@ -10,11 +10,11 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- SUPPORT CHANNEL CLICK HERE 👉 :-<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
+- SUPPORT CHANNEL CLICK HERE 👉 :- <a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
 
 <b>CREATER:</b>
-- CHANNEL :-<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
-- UPDATES :-<a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>"""
+- CHANNEL :- <a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>
+- UPDATES :- <a href=https://t.me/TeluguBadi_Ofcl>TeluguBadi_Ofcl</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
